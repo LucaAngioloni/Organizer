@@ -12,4 +12,4 @@ To remove select the filter in the Filters Window and click Remove.
 To clear the Filter Database click on Clear.
 
 <h2>Download</h2>
-MacOS version already compiled and deployed can be downloaded <a href="https://github.com/LucaAngioloni/Organizer/raw/master/Organizer.dmg">here</a>.
+MacOS version already compiled and deployed can be downloaded <a href="https://github.com/LucaAngioloni/Organizer/releases/download/Organizer-2.4.b/Organizer.dmg">here</a>.
